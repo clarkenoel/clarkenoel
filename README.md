@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Noel:
 Electrical Engineering sophomore at the University of Florida, fascinated by the intersection of AI and hardware. Passionate about machine learning engineering and building systems where software meets the physical world.<br><br>🔬 Currently researching Gaussian Splatting improvements at UF's FOCUS Lab (Florida Optics and Computational Sensors)<br>🤖 Big on agentic workflows and AI-assisted development<br>🏆 Love participating in both hardware and software hackathons<br><br>Currently seeking internships that align with these interests.
 
 
